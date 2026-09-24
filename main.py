@@ -4,4 +4,4 @@ def sumar(a, b):
 
 print("La suma de 5 + 3 =", sumar(5, 3))
 print("Se acabó el programa:")
-print("Adiós!")
+print("Hasta luego")
